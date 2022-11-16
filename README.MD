@@ -1,0 +1,1 @@
+## example code of the event storage implementation inspired by Greg Young's CQRS documents
